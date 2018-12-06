@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "property":"WhiteHouse",
+        "pricepermonth":2530,
+        "location":"2563 8th ave",
+        "occupants":[
+            {"name":"president","age":57},
+            {"name":"secretary","age":34},
+            {"name":"butler","age":25}
+        ]
+    },
+    {
+        "id":2,
+        "property":"Bobs crab shack",
+        "pricepermonth":684,
+        "location":"32 north street",
+        "occupants":[
+            {"name":"Bob","age":26}
+        ]
+    },
+    {
+        "id":3,
+        "property":"Gerrys Fishing Store",
+        "pricepermonth":983,
+        "location":"7983 west big Rd",
+        "occupants":[
+            {"name":"Gerry","age":34}
+        ]
+    },
+    {
+        "id":4,
+        "property":"Annes Rental Property",
+        "pricepermonth":1020,
+        "location":"0382 witherton Ave",
+        "occupants":[
+            {"name":"anne","age":78}
+        ]
+    },
+    {
+        "id":5,
+        "property":"jhon Property",
+        "pricepermonth":230,
+        "location":"0382 witherton Ave",
+        "occupants":[
+            {"name":"jhon","age":78}
+        ]
+    },
+    {
+        "id":6,
+        "property":"jhon Property",
+        "pricepermonth":230,
+        "location":"0382 witherton Ave",
+        "occupants":[
+            {"name":"jhon","age":78}
+        ]
+    }
+]

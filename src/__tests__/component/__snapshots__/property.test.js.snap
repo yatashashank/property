@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Property /> snapshot testing for Property component 1`] = `
+<withRouter(Property)
+  classes={
+    Object {
+      "card": "withRouter-Property--card-1",
+      "media": "withRouter-Property--media-2",
+    }
+  }
+/>
+`;

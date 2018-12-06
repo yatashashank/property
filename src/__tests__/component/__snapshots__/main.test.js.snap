@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> snapshot testing for Main component 1`] = `
+<div
+  className="card"
+>
+  <WithStyles(withRouter(Property))
+    id={1}
+    key="1"
+    prop={
+      Object {
+        "id": 1,
+        "location": "2563 8th ave",
+        "occupants": Array [
+          Object {
+            "age": 57,
+            "name": "president",
+          },
+          Object {
+            "age": 34,
+            "name": "secretary",
+          },
+          Object {
+            "age": 25,
+            "name": "butler",
+          },
+        ],
+        "pricepermonth": 2530,
+        "property": "WhiteHouse",
+      }
+    }
+  />
+  <WithStyles(withRouter(Property))
+    id={2}
+    key="2"
+    prop={
+      Object {
+        "id": 2,
+        "location": "32 north street",
+        "occupants": Array [
+          Object {
+            "age": 26,
+            "name": "Bob",
+          },
+        ],
+        "pricepermonth": 684,
+        "property": "Bobs crab shack",
+      }
+    }
+  />
+  <WithStyles(withRouter(Property))
+    id={3}
+    key="3"
+    prop={
+      Object {
+        "id": 3,
+        "location": "7983 west big Rd",
+        "occupants": Array [
+          Object {
+            "age": 34,
+            "name": "Gerry",
+          },
+        ],
+        "pricepermonth": 983,
+        "property": "Gerrys Fishing Store",
+      }
+    }
+  />
+  <WithStyles(withRouter(Property))
+    id={4}
+    key="4"
+    prop={
+      Object {
+        "id": 4,
+        "location": "0382 witherton Ave",
+        "occupants": Array [
+          Object {
+            "age": 78,
+            "name": "anne",
+          },
+        ],
+        "pricepermonth": 1020,
+        "property": "Annes Rental Property",
+      }
+    }
+  />
+  <WithStyles(withRouter(Property))
+    id={5}
+    key="5"
+    prop={
+      Object {
+        "id": 5,
+        "location": "0382 witherton Ave",
+        "occupants": Array [
+          Object {
+            "age": 78,
+            "name": "jhon",
+          },
+        ],
+        "pricepermonth": 230,
+        "property": "jhon Property",
+      }
+    }
+  />
+  <WithStyles(withRouter(Property))
+    id={6}
+    key="6"
+    prop={
+      Object {
+        "id": 6,
+        "location": "0382 witherton Ave",
+        "occupants": Array [
+          Object {
+            "age": 78,
+            "name": "jhon",
+          },
+        ],
+        "pricepermonth": 230,
+        "property": "jhon Property",
+      }
+    }
+  />
+</div>
+`;

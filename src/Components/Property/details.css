@@ -1,0 +1,18 @@
+.MuiCardActionArea-root-127 {
+    width: 50%;
+    display: block;
+    text-align: inherit;
+}
+
+div#pro {
+    width: 75%;
+    display: flex
+}
+
+.left-part-details {
+    display: flex;
+}
+
+div#cardAction {
+    flex-direction: column;
+}
