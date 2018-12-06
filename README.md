@@ -9,9 +9,9 @@ Install NodeJS if not already present. You can [download using this link](https:
 
 Requirements:
 
-git
-Node v6
-npm v3
+git<br />
+Node v6<br />
+npm v3<br />
 
 # How to use
 
