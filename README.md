@@ -16,7 +16,7 @@ npm v3
 # How to use
 
 #Clone the repository
- ```git clone https://github.com/crsandeep/simple-react-full-stack```.
+ ```git clone https://github.com/yatashashank/property.git```.
 
 #Go inside the directory
  ```cd arhn``` . 
