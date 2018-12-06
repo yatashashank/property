@@ -15,20 +15,20 @@ npm v3<br />
 
 # How to use
 
-#Clone the repository
+#Clone the repository<br />
  ```git clone https://github.com/yatashashank/property.git```.
 
-#Go inside the directory
+#Go inside the directory<br />
  ```cd property``` . 
 
-#Install dependencies
+#Install dependencies<br />
 ```npm install or yarn install``` 
 
-#start local server
+#start local server<br />
  ```npm start```
 
-#Build for production
+#Build for production<br />
 ```npm run build```
 
-#To run tests
+#To run tests<br />
 ```npm run test```
