@@ -5,7 +5,7 @@ This coding test is developed using React.js and Material-UI
 You can view a live demo over at http://arhn.com.s3-website-us-east-1.amazonaws.com/
 # Getting started
 
-Install NodeJS if not already present. You can download using this link.
+Install NodeJS if not already present. You can [download using this link](https://nodejs.org/en/).
 
 Requirements:
 
