@@ -1,15 +1,34 @@
+# Jumpcrew coding test solution
+
+This coding test is developed using React.js and Material-UI
+
+You can view a live demo over at http://arhn.com.s3-website-us-east-1.amazonaws.com/
+# Getting started
+
+Install NodeJS if not already present. You can download using this link.
+
+Requirements:
+
+git
+Node v6
+npm v3
+
 # How to use
 
-1. Download the project folder.
-2. ```cd``` into the project folder.
-3. ```npm install```
-4. ```npm start```
+#Clone the repository
+ ```git clone https://github.com/crsandeep/simple-react-full-stack```.
 
+#Go inside the directory
+ ```cd arhn``` . 
 
-# Teting
+#Install dependencies
+```npm install or yarn install``` 
 
-1. Download the project folder.
-2. ```cd``` into the project folder.
-3. ```npm install```
-4. ```npm run test```
+#start local server
+ ```npm start```
 
+#Build for production
+```npm run build```
+
+#To run tests
+```npm run test```
