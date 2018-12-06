@@ -19,7 +19,7 @@ npm v3
  ```git clone https://github.com/yatashashank/property.git```.
 
 #Go inside the directory
- ```cd arhn``` . 
+ ```cd property``` . 
 
 #Install dependencies
 ```npm install or yarn install``` 
