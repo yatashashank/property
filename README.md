@@ -1,4 +1,4 @@
-# Jumpcrew coding test solution
+# Property
 
 This coding test is developed using React.js and Material-UI
 
